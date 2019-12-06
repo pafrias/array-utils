@@ -1,4 +1,4 @@
-package arr
+package slice
 
 import (
 	"errors"
